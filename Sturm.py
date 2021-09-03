@@ -2,7 +2,7 @@
 """
 Created on Thu Sep  2 11:37:49 2021
 
-@author: Paulina Soto
+@author: Paulina Soto,Paulina García
 """
 
 #STURM
